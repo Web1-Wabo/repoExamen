@@ -16,3 +16,13 @@ Python es un lenguaje de programacion multiparadigma, este curos esta enfocado a
 
 ## Publicacion 
 > Se publicara con **GitHub Pages**
+
+## Estructura del proyecto
+aprende-python-id
+|--css
+|--js
+|--test
+|--.gitignore
+|--CHANGELOG.MD
+|--index.html
+|--README.md
